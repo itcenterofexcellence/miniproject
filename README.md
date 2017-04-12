@@ -34,7 +34,7 @@ Implement the following changes to the code found in the index.html file:
 
 9. Add an alert pop up so that when you click the X to delete a task, a pop message says *"Are you sure you want to delete this task?"*
 
-10. Implement a feature of your own design
+10. Create a READ ME file in your own GitHub project repositor. Use this to document the steps you took, any challenges, and the resources you utilized to complete your project.
 
 ### Be sure to review your project to ensure you have implemented all of the steps outlined above
 ---
