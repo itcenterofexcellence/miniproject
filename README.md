@@ -20,7 +20,7 @@ Implement the following changes to the code found in the index.html file:
 
 2. Change the placeholder text from "Add a task" to "Your First Name's tasks" ex. *Mary's tasks*
 
-3. Add an image to the header area of the page. [You can find hosted image resources here.](https://github.com/ravisuhag/stockfree)
+3. Add an image to the header area of the page. [You can find hosted image resources here.](https://github.com/ravisuhag/stockfree) and [here.](https://www.pexels.com/)
 
 4. Change the button hover color from gray to a color of your choice
 
