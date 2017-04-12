@@ -33,7 +33,7 @@ Implement the following updates to the code found in the index.html file:
 ### Be sure to review your project to ensure you have implemented all of the steps outlined above
 ---
 # Resource List
-- Guide for Search Operators for Google](https://moz.com/blog/mastering-google-search-operators-in-67-steps)
+- [Guide for Search Operators for Google](https://moz.com/blog/mastering-google-search-operators-in-67-steps)
 - [How to select and create a proffessionl email account](http://workplace.stackexchange.com/questions/11731/what-should-a-professional-email-address-look-like)
 - [Host an image online to create an image link](https://imgbb.com/)
 - [Getting Started with GitHub](https://guides.github.com/activities/hello-world/)
