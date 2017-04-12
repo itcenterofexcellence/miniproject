@@ -45,3 +45,4 @@ Implement the following updates to the code found in the index.html file:
 - [Getting Started with GitHub](https://guides.github.com/activities/hello-world/)
 - [Step by Step Guide to Setting up GitHub Pages](https://guides.github.com/features/pages/)
 - [StackOverFlow](https://stackoverflow.com/tour)
+- [How to change the way any website looks right in your browser](https://zapier.com/blog/inspect-element-tutorial/)
