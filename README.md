@@ -2,11 +2,17 @@
 ![alt text](https://i.imgur.com/VKAsb78.png "logo.")
 # Applicant Mini Project
 ---
-Use the code base provided in the [index.html of the It Center of Excellence Mini Project Repository](https://github.com/itcenterofexcellence/miniproject/blob/master/index.html) and *utilize resources available through searching the Internet* to create and host on [GitHub pages](https://pages.github.com/) **your own Cleveland Codes Applicant To Do List.**
+###Getting Started
 
-**_Note: You do not need to download the desktop version of GitHub, all of the work for this project can be completed by using [GitHub](https://guides.github.com/activities/hello-world/) in your browser_**
+- Use the code base provided in the [index.html of the It Center of Excellence Mini Project Repository](https://github.com/itcenterofexcellence/miniproject/blob/master/index.html) and *utilize resources available through searching the Internet* to create and host on [GitHub pages](https://pages.github.com/) **your own Cleveland Codes Applicant To Do List.**
 
-ex. [View an example GitHub hosted page](https://itcenterofexcellence.github.io/miniproject/)
+- [View an example GitHub hosted page](https://itcenterofexcellence.github.io/miniproject/)
+
+- You can use a text editor like NotePad++ or Atom to make changes to the code, save it, and then view your changes in your Internet browser by simply dragging the .HTML file into an open page. 
+
+- **_Note: You do not need to download the desktop version of GitHub, all of the work for this project can be completed by using [GitHub](https://guides.github.com/activities/hello-world/) in your browser_**
+
+### Your Tasks
 
 Implement the following updates to the code found in the index.html file:
 
