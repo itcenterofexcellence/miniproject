@@ -4,7 +4,7 @@
 ---
 Use the code base provided in the [index.html of the It Center of Excellence Mini Project Repository](https://github.com/itcenterofexcellence/miniproject/blob/master/index.html) and *utilize resources available through searching the Internet* to create and host on [GitHub pages](https://pages.github.com/) **your own Cleveland Codes Applicant To Do List.**
 
-**_Note: You do not need to download the desktop version of GitHub, all of the work for this project can be completed by using the [GitHub](https://guides.github.com/activities/hello-world/) in your Internet browser_**
+**_Note: You do not need to download the desktop version of GitHub, all of the work for this project can be completed by using [GitHub](https://guides.github.com/activities/hello-world/) in your browser_**
 
 ex. [View an example GitHub hosted page](https://itcenterofexcellence.github.io/miniproject/)
 
