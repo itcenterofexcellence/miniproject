@@ -139,59 +139,58 @@ input {
 <script>
 // Edit or add Javascript in between the script tags
   //Create a button that closes and appends it to each list item
-var myNodelist = document.getElementsByTagName("LI");
-var i;
-for (i = 0; i < myNodelist.length; i++) {
-  var span = document.createElement("SPAN");
-  var txt = document.createTextNode("\u00D7");
-  span.className = "close";
-  span.appendChild(txt);
-  myNodelist[i].appendChild(span);
-}
+document.getElementById('addTask').addEventListener('click', addTaskItem);
 
-// Click on a close button to hide the current list item
-var close = document.getElementsByClassName("close");
-var i;
-for (i = 0; i < close.length; i++) {
-  close[i].onclick = function() {
-    var div = this.parentElement;
-    div.style.display = "none";
+function addTaskItem(event) {
+  event.preventDefault();
+  var task = document.getElementById('taskInput').value;
+  if (!validateTask(task)) {
+    return false;
   }
-}
 
-// Add a check mark when clicking on a list item
-var list = document.querySelector('ul');
-list.addEventListener('click', function(ev) {
-  if (ev.target.tagName === 'LI') {
-    ev.target.classList.toggle('checked');
-  }
-}, false);
-
-// Make a new list item when clicking on the "Add" button
-function newElement() {
-  var li = document.createElement("li");
-  var inputValue = document.getElementById("myInput").value;
-  var t = document.createTextNode(inputValue);
-  li.appendChild(t);
-  if (inputValue === '') {
-    alert("Please enter a list item");
+  if (localStorage.getItem('tasks') === null) {
+    var tasks = [];
+    tasks.push(task);
+    localStorage.setItem('tasks', JSON.stringify(tasks));
   } else {
-    document.getElementById("myUL").appendChild(li);
+    var tasks = JSON.parse(localStorage.getItem('tasks'));
+    tasks.push(task);
+    localStorage.setItem('tasks', JSON.stringify(tasks));
   }
-  document.getElementById("myInput").value = "";
 
-  var span = document.createElement("SPAN");
-  var txt = document.createTextNode("\u00D7");
-  span.className = "close";
-  span.appendChild(txt);
-  li.appendChild(span);
+  renderTasks();
 
-  for (i = 0; i < close.length; i++) {
-    close[i].onclick = function() {
-      var div = this.parentElement;
-      div.style.display = "none";
+  document.getElementById('taskInput').value = '';
+}
+
+function deleteTask(task) {
+  var tasks = JSON.parse(localStorage.getItem('tasks'));
+  for (var i = 0; i < tasks.length; i++) {
+
+    if (tasks[i] == task) {
+      tasks.splice(i, 1);
     }
   }
+  localStorage.setItem('tasks', JSON.stringify(tasks));
+  renderTasks();
+}
+
+function renderTasks() {
+  var taskList = document.getElementById('taskList');
+  var tasks = JSON.parse(localStorage.getItem('tasks'));
+  taskList.innerHTML = '';
+  for (var i = 0; i < tasks.length; i++) {
+    var task = tasks[i];
+    taskList.innerHTML += '<li>' + task + '<a href="#0" onclick="deleteTask(\'' + task + '\')">x</a> </li>';
+  }
+}
+
+function validateTask(task) {
+  if (!task) {
+    alert('You need to fill in a task!');
+    return false;
+  }
+  return true;
 }
 </script>
 
