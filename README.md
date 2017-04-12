@@ -14,7 +14,7 @@
 
 ### Your Tasks
 
-Implement the following updates to the code found in the index.html file:
+Implement the following changes to the code found in the index.html file:
 
 1. Change the headline from "Cleveland Codes Applicant To Do List" to "Your Name Applicant To Do List" ex. *Mary Smith's To Do List"*
 
