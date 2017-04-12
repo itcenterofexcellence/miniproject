@@ -1,8 +1,10 @@
 # miniproject
 ![alt text](https://i.imgur.com/VKAsb78.png "logo.")
-## Applicant Mini Project
+# Applicant Mini Project
 ---
 Use the code base provided in the [index.html of the It Center of Excellence Mini Project Repository](https://github.com/itcenterofexcellence/miniproject/blob/master/index.html) and *utilize resources available through searching the Internet* to create and host on [GitHub pages](https://pages.github.com/) **your own Cleveland Codes Applicant To Do List.**
+
+**_Note: You do not need to download the desktop version of GitHub, all of the work for this project can be completed by using the [GitHub](https://guides.github.com/activities/hello-world/) in your Internet browser_**
 
 ex. [View an example GitHub hosted page](https://itcenterofexcellence.github.io/miniproject/)
 
@@ -27,5 +29,13 @@ Implement the following updates to the code found in the index.html file:
 9. Add an alert pop up so that when you click the X to delete a task, a pop message says *"Are you sure you want to delete this task?"*
 
 10. Implement a feature of your own design
+
+### Be sure to review your project to ensure you have implemented all of the steps outlined above
 ---
-## Be sure to review your project to ensure you have implemented all of the steps outlined above
+# Resource List
+- Guide for Search Operators for Google](https://moz.com/blog/mastering-google-search-operators-in-67-steps)
+- [How to select and create a proffessionl email account](http://workplace.stackexchange.com/questions/11731/what-should-a-professional-email-address-look-like)
+- [Host an image online to create an image link](https://imgbb.com/)
+- [Getting Started with GitHub](https://guides.github.com/activities/hello-world/)
+- [Step by Step Guide to Setting up GitHub Pages](https://guides.github.com/features/pages/)
+- [StackOverFlow](https://stackoverflow.com/tour)
