@@ -34,7 +34,7 @@ Implement the following changes to the code found in the index.html file:
 
 8. Add a border radius to the list close button so that on hover the box turns into a circle ![alt text](https://s7.postimg.org/c70shqhcb/box.png "box.")
 
-9. Add an alert pop up so that when you click the X to delete a task, a pop message says *"Are you sure you want to delete this task?"*
+9. Add an alert pop up so that when you click the # **X** to delete a task, a pop message says *"Are you sure you want to delete this task?"*
 
 10. Create a READ ME file in your own GitHub project repository. Use this to document the steps you took, any challenges, and the resources you utilized to complete your project
 
