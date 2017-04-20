@@ -42,11 +42,13 @@ Implement the following changes to the code found in the index.html file:
 ---
 # Resource List
 - [Getting Started with GitHub](https://guides.github.com/activities/hello-world/)
-- [Step by Step Guide to Setting up GitHub Pages](https://guides.github.com/features/pages/)
 - [Guide for Search Operators for Google](https://moz.com/blog/mastering-google-search-operators-in-67-steps)
 - [How to create a professional appearing email account](http://workplace.stackexchange.com/questions/11731/what-should-a-professional-email-address-look-like)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+- [Web Development for Beginners](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 - [Host an image online to create an image link](https://imgbb.com/)
+- [Creddle Resume Builder](http://creddle.io/)
 - [StackOverFlow](https://stackoverflow.com/tour)
 - [How to change the way any website looks right in your browser](https://zapier.com/blog/inspect-element-tutorial/)
+- [Step by Step Guide to Setting up GitHub Pages](https://guides.github.com/features/pages/)
 - [Practice coding tutorials in your broswer](https://dash.generalassemb.ly/)
