@@ -41,10 +41,12 @@ Implement the following changes to the code found in the index.html file:
 ### Be sure to review your project to ensure you have implemented all of the steps outlined above
 ---
 # Resource List
-- [Guide for Search Operators for Google](https://moz.com/blog/mastering-google-search-operators-in-67-steps)
-- [How to create a professional appearing email account](http://workplace.stackexchange.com/questions/11731/what-should-a-professional-email-address-look-like)
-- [Host an image online to create an image link](https://imgbb.com/)
 - [Getting Started with GitHub](https://guides.github.com/activities/hello-world/)
 - [Step by Step Guide to Setting up GitHub Pages](https://guides.github.com/features/pages/)
+- [Guide for Search Operators for Google](https://moz.com/blog/mastering-google-search-operators-in-67-steps)
+- [How to create a professional appearing email account](http://workplace.stackexchange.com/questions/11731/what-should-a-professional-email-address-look-like)
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+- [Host an image online to create an image link](https://imgbb.com/)
 - [StackOverFlow](https://stackoverflow.com/tour)
 - [How to change the way any website looks right in your browser](https://zapier.com/blog/inspect-element-tutorial/)
+- [Practice coding tutorials in your broswer](https://dash.generalassemb.ly/)
