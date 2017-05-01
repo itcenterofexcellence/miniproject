@@ -4,7 +4,7 @@
 ---
 ### Getting Started
 
-- Welcome! Take a deep breath and work through each step by reading the details carefully.
+- Welcome! Take a deep breath and work through each step by reading the details carefully. Work through as many steps as possible. Show your ability to seek out information and apply knowledge. It's not quantity, it's effort!
 
 - Use the code base provided in the [index.html of the It Center of Excellence Mini Project Repository](https://github.com/itcenterofexcellence/miniproject/blob/master/index.html) and *use resources available through searching the Internet* to create and host on [GitHub pages](https://pages.github.com/) **your own Cleveland Codes Applicant To Do List**
 
