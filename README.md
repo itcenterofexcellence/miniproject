@@ -28,7 +28,7 @@ Implement the following changes to the code found in the index.html file:
 
 5. Add a sans serif font family to the webpage body text using CSS 
 
-6. Add a link to the *"Update Resume"* list item that links to your updated resume hosted online. [You can find free .PDF hosting sites here.](http://www.makeuseof.com/tag/7-best-tools-present-share-pdf-files-online/). For example, you can upload a PDF to Google Drive and share the document to get a link for your code.
+6. Add a link to the *"Update Resume"* list item that links to your updated resume hosted online. [You can find free .PDF hosting sites here.](http://www.makeuseof.com/tag/7-best-tools-present-share-pdf-files-online/) *For example, you can upload a PDF to Google Drive and share the document to get a link for your code.*
 
 7. Add a link to the *"Practice for My Interview"* list item that links to a YouTube video with the title "CS50 and Quora present... Prep and Practice for Technical Interviews"
 
