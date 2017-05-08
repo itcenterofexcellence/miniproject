@@ -38,7 +38,7 @@ Implement the following changes to the code found in the index.html file:
 
 10. Create a READ ME file in your own GitHub project repository. Use this to document the steps you took, any challenges, and the resources you utilized to complete your project
 
-### Be sure to review your project to ensure you have implemented all of the steps outlined above
+### Be sure to review your project to ensure you have attempted implemented all of the steps outlined above
 ---
 # Resource List
 - [Getting Started with GitHub](https://guides.github.com/activities/hello-world/)
