@@ -22,13 +22,13 @@ Implement the following changes to the code found in the index.html file:
 
 2. Change the placeholder text from "Add a task" to "Your First Name's tasks" ex. *Taylor's tasks*
 
-3. Add an image to the header area of the page [You can find hosted image resources here](https://github.com/ravisuhag/stockfree) and [here.](https://www.pexels.com/)
+3. You can "style" a webpage with CSS. Add a background image to the header area of the page [You can find hosted image resources here](https://github.com/ravisuhag/stockfree) and [here.](https://www.pexels.com/)
 
-4. Change the button hover color from gray to a color of your choice
+4. When you mouse or "hover" over the button it changes color. Change the button hover color from gray to a color of your choice
 
-5. Add a sans serif font family to the CSS 
+5. Add a sans serif font family to the webpage body text using CSS 
 
-6. Add a link to the *"Update Resume"* list item that links to your updated resume hosted online. [You can find free .PDF hosting sites here.](http://www.makeuseof.com/tag/7-best-tools-present-share-pdf-files-online/)
+6. Add a link to the *"Update Resume"* list item that links to your updated resume hosted online. [You can find free .PDF hosting sites here.](http://www.makeuseof.com/tag/7-best-tools-present-share-pdf-files-online/). For example, you can upload a PDF to Google Drive and share the document to get a link for your code.
 
 7. Add a link to the *"Practice for My Interview"* list item that links to a YouTube video with the title "CS50 and Quora present... Prep and Practice for Technical Interviews"
 
