@@ -10,7 +10,7 @@
 
 - [View an example GitHub hosted page](https://itcenterofexcellence.github.io/miniproject/)
 
-- You can use a text editor like NotePad++ or Atom to make changes to the code, then save it as an index.html file, and drag it into an open internet browser (ex. Google Chrome) to view your changes
+- You can use a text editor like [NotePad++](https://notepad-plus-plus.org/) or [Atom](https://atom.io/) to make changes to the code, then save it as an index.html file, and drag it into an open internet browser (ex. Google Chrome) to view your changes
 
 - **_Note: You do not need to download the desktop version of GitHub, all of the work for this project can be completed by using [GitHub](https://guides.github.com/activities/hello-world/) in your browser_**
 
